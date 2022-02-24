@@ -10,7 +10,8 @@
 - 📫 mon discord **zeiden.sad#4540**
 
 - ⚡ Fun fact **je suis drole**
--  https://github-readme-stats.vercel.app/api/top-langs/?username=zeidensad&show_icons=true&theme=radical
+
+![Capture](https://user-images.githubusercontent.com/100368432/155588139-1d5087b1-ff78-41b7-a3f1-9f563255398d.PNG)
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
