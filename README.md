@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeidensad&label=Profile%20views&color=0e75b6&style=flat" alt="zeidensad" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zeidensad" alt="zeidensad" /></a> </p>
-
 - 🔭 Je travaille sur le projet [zeilookup](https://github.com/zeidensad/zeilookup)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/zeidensad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="zeidensad" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc7yn40smfm_3zw80uvmgdda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc7yn40smfm_3zw80uvmgdda" height="30" width="40" /></a>
 <a href="https://discord.gg/zeiden.web#5073" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="zeiden.web#5073" height="30" width="40" /></a>
 </p>
 
