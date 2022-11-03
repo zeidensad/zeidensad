@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeidensad&label=Profile%20views&color=0e75b6&style=flat" alt="zeidensad" /> </p>
 
-- 🔭 Je travaille sur le projet [zeilookup](https://github.com/zeidensad/zeilookup)
+- 🔭 Je travaille sur le projet [ZeiVirus](https://github.com/zeidensad/ZeiVirus)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
